@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="center" restorationIdentifier="test" id="iN0-l3-epB" customClass="test" customModule="roamu" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="390" height="295"/>
+            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="5Nn-a2-SU3">
+                    <rect key="frame" x="134.5" y="44" width="121" height="34"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="121" id="aNU-4V-dHC"/>
+                        <constraint firstAttribute="height" constant="34" id="row-YE-21f"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GUA-R7-0qx">
+                    <rect key="frame" x="172" y="204" width="46" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="ZKC-fw-wbP"/>
+                        <constraint firstAttribute="width" constant="46" id="yIC-0T-c1t"/>
+                    </constraints>
+                    <state key="normal" title="Button"/>
+                    <connections>
+                        <action selector="cancel:" destination="-2" eventType="editingDidEndOnExit" id="3wm-TK-Fgn"/>
+                    </connections>
+                </button>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="hNz-cS-2QG">
+                    <rect key="frame" x="135" y="118" width="121" height="34"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="34" id="4K6-Ea-g2h"/>
+                        <constraint firstAttribute="width" constant="121" id="8jF-w3-Ova"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="hNz-cS-2QG" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="135" id="6VM-QJ-wja"/>
+                <constraint firstItem="5Nn-a2-SU3" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="8yH-dL-tDf"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="GUA-R7-0qx" secondAttribute="trailing" constant="172" id="JSi-3w-wPX"/>
+                <constraint firstAttribute="bottom" secondItem="5Nn-a2-SU3" secondAttribute="bottom" constant="217" id="Rym-bS-UA7"/>
+                <constraint firstItem="hNz-cS-2QG" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="118" id="TlO-QH-foh"/>
+                <constraint firstAttribute="trailing" secondItem="5Nn-a2-SU3" secondAttribute="trailing" constant="134.5" id="buS-WA-Kv7"/>
+                <constraint firstAttribute="bottom" secondItem="hNz-cS-2QG" secondAttribute="bottom" constant="143" id="gQx-ty-d8X"/>
+                <constraint firstItem="GUA-R7-0qx" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="172" id="hys-Vm-Ynp"/>
+                <constraint firstItem="5Nn-a2-SU3" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="44" id="l5U-Mv-SKJ"/>
+                <constraint firstItem="5Nn-a2-SU3" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="134.5" id="mip-OG-Ydy"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="GUA-R7-0qx" secondAttribute="bottom" constant="61" id="nhT-yd-eB3"/>
+                <constraint firstAttribute="trailing" secondItem="hNz-cS-2QG" secondAttribute="trailing" constant="134" id="pc6-J4-DIX"/>
+                <constraint firstItem="GUA-R7-0qx" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="v0e-kM-hKM"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <point key="canvasLocation" x="123.18840579710145" y="67.96875"/>
+        </view>
+    </objects>
+</document>

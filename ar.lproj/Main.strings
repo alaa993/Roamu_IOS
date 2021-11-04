@@ -1,0 +1,312 @@
+
+/* Class = "UILabel"; text = "DRIVER NAME"; ObjectID = "0Ze-Wy-tg3"; */
+"0Ze-Wy-tg3.text" = "DRIVER NAME";
+
+/* Class = "UITextField"; placeholder = "Smoked"; ObjectID = "0ns-76-F8i"; */
+"0ns-76-F8i.placeholder" = "Smoked";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "0yP-wZ-cH7"; */
+"0yP-wZ-cH7.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "1Dx-DD-F8q"; */
+"1Dx-DD-F8q.normalTitle" = "Forgot password?";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "1XR-gB-FIc"; */
+"1XR-gB-FIc.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "46th Ave"; ObjectID = "1yz-vZ-usx"; */
+"1yz-vZ-usx.text" = "46th Ave";
+
+/* Class = "UILabel"; text = "Pickup Address:"; ObjectID = "38z-Sq-gjN"; */
+"38z-Sq-gjN.text" = "Pickup Address:";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "3lb-54-ctL"; */
+"3lb-54-ctL.text" = "Change Password";
+
+/* Class = "UILabel"; text = "0988088320"; ObjectID = "5LH-vi-Otb"; */
+"5LH-vi-Otb.text" = "0988088320";
+
+/* Class = "UILabel"; text = "No. Passengers:"; ObjectID = "5qB-BO-ILs"; */
+"5qB-BO-ILs.text" = "No. Passengers:";
+
+/* Class = "UIButton"; normalTitle = "1 Passenger"; ObjectID = "5y5-we-pUo"; */
+"5y5-we-pUo.normalTitle" = "1 Passenger";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "7Z4-ok-ejb"; */
+"7Z4-ok-ejb.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "7uk-Wf-nQb"; */
+"7uk-Wf-nQb.normalTitle" = "Change Password";
+
+/* Class = "UILabel"; text = "Drop Address:"; ObjectID = "8Mc-Gp-wqh"; */
+"8Mc-Gp-wqh.text" = "Drop Address:";
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "8U6-q9-KHf"; */
+"8U6-q9-KHf.normalTitle" = "Language";
+
+/* Class = "UITextField"; placeholder = "Travel Time"; ObjectID = "99B-53-32C"; */
+"99B-53-32C.placeholder" = "Travel Time";
+
+/* Class = "UILabel"; text = "Pickup Address:"; ObjectID = "9bn-6b-jXr"; */
+"9bn-6b-jXr.text" = "Pickup Address:";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "9z6-t8-OeG"; */
+"9z6-t8-OeG.normalTitle" = "Add";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "AGS-9L-rp4"; */
+"AGS-9L-rp4.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "By general provisions, we mean services related to both users and car owners."; ObjectID = "CkV-1z-FaE"; */
+"CkV-1z-FaE.text" = "By general provisions, we mean services related to both users and car owners.";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "D46-bQ-zL1"; */
+"D46-bQ-zL1.text" = "Mobile";
+
+/* Class = "UILabel"; text = "The rumor of participatory mobility, according to the goals that we mentioned above, pushes all parties to this service to ensure cooperation and advance mobility to distinct levels."; ObjectID = "DHQ-6U-Kx8"; */
+"DHQ-6U-Kx8.text" = "The rumor of participatory mobility, according to the goals that we mentioned above, pushes all parties to this service to ensure cooperation and advance mobility to distinct levels.";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "DLu-Vh-h9U"; */
+"DLu-Vh-h9U.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Number of seats to book"; ObjectID = "E26-bE-KM3"; */
+"E26-bE-KM3.text" = "Number of seats to book";
+
+/* Class = "UILabel"; text = "Woodside, NY 11101"; ObjectID = "EkA-YU-wQA"; */
+"EkA-YU-wQA.text" = "Woodside, NY 11101";
+
+/* Class = "UILabel"; text = "Participatory mobility seeks to achieve a major goal related to providing comfortable and distinct means of transportation, to reduce people from using their own vehicles, which contributes to serving the environment by reducing pollution, and providing mass transportation means at competitive prices, and contributes to reducing fuel consumption."; ObjectID = "G9W-OZ-ct1"; */
+"G9W-OZ-ct1.text" = "Participatory mobility seeks to achieve a major goal related to providing comfortable and distinct means of transportation, to reduce people from using their own vehicles, which contributes to serving the environment by reducing pollution, and providing mass transportation means at competitive prices, and contributes to reducing fuel consumption.";
+
+/* Class = "UILabel"; text = "FROM"; ObjectID = "Gbn-yk-osO"; */
+"Gbn-yk-osO.text" = "FROM";
+
+/* Class = "UITextField"; placeholder = "Booked Set"; ObjectID = "HdU-Lh-MCT"; */
+"HdU-Lh-MCT.placeholder" = "Booked Set";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "I8b-OS-l1A"; */
+"I8b-OS-l1A.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Find Travel"; ObjectID = "IZf-Ml-y6R"; */
+"IZf-Ml-y6R.normalTitle" = "Find Travel";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "Jhb-cA-OVd"; */
+"Jhb-cA-OVd.text" = "Name:";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "K69-ql-dWc"; */
+"K69-ql-dWc.text" = "No";
+
+/* Class = "UILabel"; text = "No. Passengers:"; ObjectID = "KAG-R5-BlT"; */
+"KAG-R5-BlT.text" = "No. Passengers:";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "Ka6-Wl-HnC"; */
+"Ka6-Wl-HnC.placeholder" = "Current Password";
+
+/* Class = "UILabel"; text = "Drop Address:"; ObjectID = "Kdp-F4-zpQ"; */
+"Kdp-F4-zpQ.text" = "Drop Address:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "LUo-sC-mie"; */
+"LUo-sC-mie.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "New York, NY 10025"; ObjectID = "LVk-wk-m7n"; */
+"LVk-wk-m7n.text" = "New York, NY 10025";
+
+/* Class = "UILabel"; text = "Vehicle"; ObjectID = "LWB-BX-wAP"; */
+"LWB-BX-wAP.text" = "Vehicle";
+
+/* Class = "UILabel"; text = "W 90th St"; ObjectID = "LzY-pd-g9S"; */
+"LzY-pd-g9S.text" = "W 90th St";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "Mp4-km-haH"; */
+"Mp4-km-haH.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Fare:"; ObjectID = "N0I-QJ-UhC"; */
+"N0I-QJ-UhC.text" = "Fare:";
+
+/* Class = "UILabel"; text = "Mobile Number:"; ObjectID = "NfR-dO-GVl"; */
+"NfR-dO-GVl.text" = "Mobile Number:";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "NmF-hn-M7V"; */
+"NmF-hn-M7V.text" = "Email";
+
+/* Class = "UILabel"; text = "Change Language:"; ObjectID = "OBC-X3-xTD"; */
+"OBC-X3-xTD.text" = "Change Language:";
+
+/* Class = "UIButton"; normalTitle = "Sub"; ObjectID = "OOR-a8-hQu"; */
+"OOR-a8-hQu.normalTitle" = "Sub";
+
+/* Class = "UILabel"; text = "March 7th, 2017"; ObjectID = "OoP-9a-Sbg"; */
+"OoP-9a-Sbg.text" = "March 7th, 2017";
+
+/* Class = "UILabel"; text = "roamu"; ObjectID = "PNY-0h-32L"; */
+"PNY-0h-32L.text" = "roamu";
+
+/* Class = "UILabel"; text = "09:30 am"; ObjectID = "PQM-Wn-tKs"; */
+"PQM-Wn-tKs.text" = "09:30 am";
+
+/* Class = "UITextField"; placeholder = "Travel Time"; ObjectID = "QpT-eO-14A"; */
+"QpT-eO-14A.placeholder" = "Travel Time";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "RNh-4J-R5e"; */
+"RNh-4J-R5e.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Empty Set:"; ObjectID = "RTD-rr-jj5"; */
+"RTD-rr-jj5.text" = "Empty Set:";
+
+/* Class = "UILabel"; text = "8"; ObjectID = "STF-3Q-UNd"; */
+"STF-3Q-UNd.text" = "8";
+
+/* Class = "UIButton"; normalTitle = "COMPLETE"; ObjectID = "SxS-Re-rSM"; */
+"SxS-Re-rSM.normalTitle" = "COMPLETE";
+
+/* Class = "UILabel"; text = "2500"; ObjectID = "T2N-fU-hPg"; */
+"T2N-fU-hPg.text" = "2500";
+
+/* Class = "UILabel"; text = "Barzeh"; ObjectID = "Uub-R6-xap"; */
+"Uub-R6-xap.text" = "Barzeh";
+
+/* Class = "UITextField"; placeholder = "From"; ObjectID = "VRw-vE-S5j"; */
+"VRw-vE-S5j.placeholder" = "From";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "Vch-Eq-9C6"; */
+"Vch-Eq-9C6.text" = "John Doe";
+
+/* Class = "UITextField"; placeholder = "Emal"; ObjectID = "W46-Fz-KjQ"; */
+"W46-Fz-KjQ.placeholder" = "Emal";
+
+/* Class = "UILabel"; text = "New York, NY 10025"; ObjectID = "ZSA-aB-4HV"; */
+"ZSA-aB-4HV.text" = "New York, NY 10025";
+
+/* Class = "UILabel"; text = "DRIVER NAME"; ObjectID = "aHl-rr-kuP"; */
+"aHl-rr-kuP.text" = "DRIVER NAME";
+
+/* Class = "UITextField"; placeholder = "Smoked"; ObjectID = "aw0-r6-csA"; */
+"aw0-r6-csA.placeholder" = "Smoked";
+
+/* Class = "UIButton"; normalTitle = "Create an Account"; ObjectID = "b7C-3Z-iXK"; */
+"b7C-3Z-iXK.normalTitle" = "Create an Account";
+
+/* Class = "UIButton"; normalTitle = "Create an Account"; ObjectID = "bjI-Uz-I3N"; */
+"bjI-Uz-I3N.normalTitle" = "Create an Account";
+
+/* Class = "UILabel"; text = "TO"; ObjectID = "cNF-LO-liQ"; */
+"cNF-LO-liQ.text" = "TO";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "ce7-tW-3gX"; */
+"ce7-tW-3gX.text" = "John Doe";
+
+/* Class = "UILabel"; text = "46th Ave"; ObjectID = "eHT-yN-5va"; */
+"eHT-yN-5va.text" = "46th Ave";
+
+/* Class = "UILabel"; text = "Smoked"; ObjectID = "eMX-Cw-jFQ"; */
+"eMX-Cw-jFQ.text" = "Smoked";
+
+/* Class = "UILabel"; text = "Mazzeh"; ObjectID = "eZH-fi-Wf3"; */
+"eZH-fi-Wf3.text" = "Mazzeh";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "ebT-N2-Pna"; */
+"ebT-N2-Pna.text" = "4";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "f2s-2R-whx"; */
+"f2s-2R-whx.text" = "Name:";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "fI1-ke-IRX"; */
+"fI1-ke-IRX.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "fip-jx-om5"; */
+"fip-jx-om5.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g6W-8B-1Yu"; */
+"g6W-8B-1Yu.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "pickup Address"; ObjectID = "gts-da-0Or"; */
+"gts-da-0Or.placeholder" = "pickup Address";
+
+/* Class = "UILabel"; text = "TO"; ObjectID = "hOR-fQ-zMW"; */
+"hOR-fQ-zMW.text" = "TO";
+
+/* Class = "UILabel"; text = "W 90th St"; ObjectID = "i86-HX-p5n"; */
+"i86-HX-p5n.text" = "W 90th St";
+
+/* Class = "UIButton"; normalTitle = "Add Travel"; ObjectID = "ice-Hk-2fL"; */
+"ice-Hk-2fL.normalTitle" = "Add Travel";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ija-ut-gSA"; */
+"ija-ut-gSA.text" = "Name";
+
+/* Class = "UILabel"; text = "FROM"; ObjectID = "j28-yw-JHZ"; */
+"j28-yw-JHZ.text" = "FROM";
+
+/* Class = "UILabel"; text = "Mobile Number:"; ObjectID = "jOG-Ry-L6W"; */
+"jOG-Ry-L6W.text" = "Mobile Number:";
+
+/* Class = "UILabel"; text = "March 7th, 2017"; ObjectID = "jRT-sV-V18"; */
+"jRT-sV-V18.text" = "March 7th, 2017";
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "kSy-sx-JzF"; */
+"kSy-sx-JzF.placeholder" = "To";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "lSm-3h-6Rg"; */
+"lSm-3h-6Rg.placeholder" = "Amount";
+
+/* Class = "UITextField"; placeholder = "Drop Address"; ObjectID = "mMq-7l-y6b"; */
+"mMq-7l-y6b.placeholder" = "Drop Address";
+
+/* Class = "UILabel"; text = "DATE"; ObjectID = "mPh-Y4-sra"; */
+"mPh-Y4-sra.text" = "DATE";
+
+/* Class = "UITextField"; placeholder = "Emal"; ObjectID = "mS9-6U-dCG"; */
+"mS9-6U-dCG.placeholder" = "Emal";
+
+/* Class = "UILabel"; text = "Ibrahim Marie"; ObjectID = "meu-RN-TES"; */
+"meu-RN-TES.text" = "Ibrahim Marie";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "myr-JZ-9OW"; */
+"myr-JZ-9OW.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Empty Set:"; ObjectID = "nWX-dV-qCf"; */
+"nWX-dV-qCf.text" = "Empty Set:";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "neo-us-4C5"; */
+"neo-us-4C5.text" = "John Doe";
+
+/* Class = "UILabel"; text = "Woodside, NY 11101"; ObjectID = "nj3-1E-bN1"; */
+"nj3-1E-bN1.text" = "Woodside, NY 11101";
+
+/* Class = "UILabel"; text = "General provisions"; ObjectID = "o27-lM-1O0"; */
+"o27-lM-1O0.text" = "General provisions";
+
+/* Class = "UIButton"; normalTitle = "PAY NOW"; ObjectID = "p5r-Yh-qXL"; */
+"p5r-Yh-qXL.normalTitle" = "PAY NOW";
+
+/* Class = "UIButton"; normalTitle = "TRACK RIDE"; ObjectID = "peb-ae-TTp"; */
+"peb-ae-TTp.normalTitle" = "TRACK RIDE";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "sSp-Dc-caL"; */
+"sSp-Dc-caL.normalTitle" = "CONFIRM";
+
+/* Class = "UILabel"; text = "09:30 am"; ObjectID = "sWr-NR-fVr"; */
+"sWr-NR-fVr.text" = "09:30 am";
+
+/* Class = "UIButton"; normalTitle = "Add Travel"; ObjectID = "v6S-Oh-vie"; */
+"v6S-Oh-vie.normalTitle" = "Add Travel";
+
+/* Class = "UILabel"; text = "Fare:"; ObjectID = "vwe-6O-Ra6"; */
+"vwe-6O-Ra6.text" = "Fare:";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "x0D-oQ-e5H"; */
+"x0D-oQ-e5H.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "12345678"; ObjectID = "xAt-GS-KqY"; */
+"xAt-GS-KqY.text" = "12345678";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "xdF-7W-fKX"; */
+"xdF-7W-fKX.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Payment Status:"; ObjectID = "xrj-iU-J10"; */
+"xrj-iU-J10.text" = "Payment Status:";
+
+/* Class = "UILabel"; text = "DATE"; ObjectID = "yx0-SL-O2J"; */
+"yx0-SL-O2J.text" = "DATE";
+
+/* Class = "UILabel"; text = "We are keen to clarify the nature of the service provided, which is in line with the requirements of participatory transportation recognized in the countries of the world, and as much as we are keen to provide advanced and integrated services, we confirm that achieving this goal requires full cooperation by car owners and users at the same time, and All parties must believe that everyone is a partner in this service, and that its success depends on the type and nature of cooperation, and that achieving the set of goals that we want to achieve will not be achieved without understanding the nature of our work, the depth of the goals, their importance and the need to develop these services."; ObjectID = "zPq-DC-Fi5"; */
+"zPq-DC-Fi5.text" = "We are keen to clarify the nature of the service provided, which is in line with the requirements of participatory transportation recognized in the countries of the world, and as much as we are keen to provide advanced and integrated services, we confirm that achieving this goal requires full cooperation by car owners and users at the same time, and All parties must believe that everyone is a partner in this service, and that its success depends on the type and nature of cooperation, and that achieving the set of goals that we want to achieve will not be achieved without understanding the nature of our work, the depth of the goals, their importance and the need to develop these services.";
